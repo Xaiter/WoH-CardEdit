@@ -1,0 +1,9 @@
+﻿stamina
+reason
+doom
+experience
+funds
+ally
+curse
+injury
+item

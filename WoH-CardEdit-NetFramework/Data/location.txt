@@ -1,0 +1,13 @@
+﻿global
+downtown
+school
+hospital
+seaside
+forest
+mansion
+village
+apartment
+ithotu
+athyola
+gozu
+atorasu
